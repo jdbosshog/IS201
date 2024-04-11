@@ -1,0 +1,77 @@
+/* styles.css */
+
+/* Set background color of the body to blue */
+body {
+    background-color: blue;
+}
+
+/* Example font styles for sections */
+.section1 {
+    font-family: Arial, sans-serif;
+    /* Example positioning for section 1 */
+    position: relative;
+    top: 0;
+    left: 0;
+    color: green; /* Set font color to green */
+}
+
+.section2 {
+    font-family: 'Courier New', Courier, monospace;
+    /* Example positioning for section 2 */
+    position: relative;
+    top: 20px;
+    left: 20px;
+    color: orange; /* Set font color to orange */
+    margin-bottom: 100px;
+}
+
+.section3 {
+    margin-top: 100px;
+    font-family: Impact, Charcoal, sans-serif;
+    /* Example positioning for section 3 */
+    position: relative;
+    top: -20px;
+    left: -20px;
+    color: green; /* Set font color to green */
+}
+
+.section4 {
+    font-family: 'Times New Roman', Times, serif;
+    /* Example positioning for section 4 */
+    position: relative;
+    top: 40px;
+    left: -40px;
+    color: orange; /* Set font color to orange */
+}
+
+.section5 {
+    font-family: 'Times New Roman', Times, serif;
+    /* Example positioning for section 4 */
+    position: relative;
+    top: 40px;
+    left: -40px;
+    color: orange; /* Set font color to orange */
+    margin-bottom: 100px;
+}
+.section6 {
+    font-family: 'Times New Roman', Times, serif;
+    /* Example positioning for section 4 */
+    position: relative;
+    top: 400px;
+    left: -40px;
+    color: orange; /* Set font color to orange */
+    margin-bottom: 100px;
+}
+/* Example styling for container */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Example styling for random-font class */
+.random-font {
+    /* Add your random font styles here */
+}
+
+
